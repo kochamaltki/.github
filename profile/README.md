@@ -18,7 +18,7 @@ Welcome to AltGirly Social, the fastest social media platform for devs who love 
 
 ## License
 
-AltGirly Social is licensed under no license.
+AltGirly Social is licensed under MIT license.
 
 ## Credits
 
