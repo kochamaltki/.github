@@ -10,7 +10,7 @@ This project combines the power of Rust on the backend for blazingly fast perfor
 - **Comments:** Engage in discussions with other users by commenting on posts.
 - **Voting Options:** Vote on posts to show appreciation or express your opinion.
 
-## Why AltGirly Social?
+## Why SX?
 
 - **Blazingly Fast:** Powered by Rust on the backend, SX ensures lightning-fast performance for an optimal user experience.
 - **SvelteKit:** Utilizing SvelteKit on the frontend allows for efficient and reactive web development.
