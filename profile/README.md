@@ -5,7 +5,7 @@ Platforma spolecznosciowa wzorowana na Twitterze (X?????)
 Jan Wislocki, Nguyen Anh Do, Tomasz Brutt, Ignacy Wojciechowski, Kajetan Gura
 
 # Ocena
-(213)7
+7 (Ewentualnie 6)
 
 # Narzedzia
 ### Frontend
