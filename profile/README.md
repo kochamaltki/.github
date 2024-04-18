@@ -15,8 +15,10 @@ Jan Wislocki, Nguyen Anh Do, Tomasz Brutt, Ignacy Wojciechowski, Kajetan Gura
 - Vitest to testowania
 
 ### Backend
-- Rust (BLAZINGLY FAST)
+- Rust (BLAZINGLY FAST 🚀 🔥)
 - SQLite
+- Docker
+- Nginx i Nginx Proxy Manager
 
 # Funkcjonalnosc (Planowana)
 ### Konta
